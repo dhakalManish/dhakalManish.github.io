@@ -62,7 +62,7 @@ p {
     font-size: 32px;
     font-weight: 900;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
@@ -87,7 +87,7 @@ p {
     .fas,
     .fab,
     .far {
-      margin-right: 5px;
+      margin-right: 10px;
       font-size: 18px;
       vertical-align: middle;
     }
@@ -111,7 +111,7 @@ p {
   .degree {
     font-size: 14px;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
   .education-container {
     .item {
@@ -141,7 +141,7 @@ p {
   .languages-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 5px;
+      margin-bottom: 10px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -151,7 +151,7 @@ p {
   .interests-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 5px;
+      margin-bottom: 10px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -211,7 +211,7 @@ p {
   .company,
   .university,
   .cert-org {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     color: $text-grey;
   }
 
@@ -219,7 +219,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     color: darken($theme-color, 15%);
   }
   .projects-section {
@@ -235,7 +235,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     color: darken($theme-color, 15%);
   }
   .services-section {
