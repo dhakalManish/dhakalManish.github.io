@@ -231,6 +231,21 @@ p {
     }
   }
   
+  .service-title {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: darken($theme-color, 15%);
+  }
+  .services-section {
+    .intro {
+      margin-bottom: 30px;
+    }
+    .item {
+      margin-bottom: 15px;
+    }
+  }
 
   .publication-title {
     font-size: 16px;
