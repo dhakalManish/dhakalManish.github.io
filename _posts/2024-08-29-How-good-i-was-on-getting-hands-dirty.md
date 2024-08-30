@@ -16,9 +16,6 @@ In my journey through various technical and cybersecurity projects, I've come to
 
 One of the key areas where I've immersed myself is coding and debugging. Tackling complex problems directly by writing and testing code helps me understand the intricacies of programming languages and frameworks. For instance, working with the .NET SDK and developing a Point of Sale (POS) system has provided me with valuable insights into application development and debugging.
 
-### Capture The Flag (CTF) Challenges
-
-Participating in Capture The Flag (CTF) challenges has also been a significant part of my hands-on experience. Platforms like Hack The Box, TryHackMe, and PicoCTF have allowed me to apply theoretical knowledge in practical scenarios. Solving real-world security challenges and vulnerabilities has enhanced my skills in penetration testing and digital forensics.
 
 ## Lessons Learned
 
