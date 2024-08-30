@@ -32,8 +32,9 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: assets/image/B1shal.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
-
+    pdf:  # Add a PDF link here if you want to include a PDF custom version in your resume.
+    blog: blog.html
+    
     languages:
       title: Languages
       info:
