@@ -34,6 +34,7 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf:  # Add a PDF link here if you want to include a PDF custom version in your resume.
     blog: blog.html
+    allprojects: allprojects.md
     
     languages:
       title: Languages
