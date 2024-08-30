@@ -19,7 +19,7 @@ h6 {
 }
 
 a {
-  color: darken($theme-color, 15%);
+  color: darken($theme-color, 65%);
   &:hover {
     text-decoration: underline;
     color: darken($theme-color, 30%);
@@ -72,13 +72,13 @@ p {
     margin-bottom: 0;
   }
   .profile {
-    margin-bottom: 15px;
+    margin-bottom: 65px;
   }
 
   .avatar {
     //used for profile image
     max-width: 100px;
-    margin-bottom: 15px;
+    margin-bottom: 65px;
     border: 0px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -92,7 +92,7 @@ p {
       vertical-align: middle;
     }
     li {
-      margin-bottom: 15px;
+      margin-bottom: 65px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -106,7 +106,7 @@ p {
     font-size: 16px;
     font-weight: 700;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 65px;
   }
   .degree {
     font-size: 14px;
@@ -115,7 +115,7 @@ p {
   }
   .education-container {
     .item {
-      margin-bottom: 15px;
+      margin-bottom: 65px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -168,7 +168,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($theme-color, 15%);
+    color: darken($theme-color, 65%);
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -220,14 +220,14 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($theme-color, 15%);
+    color: darken($theme-color, 65%);
   }
   .projects-section {
     .intro {
       margin-bottom: 30px;
     }
     .item {
-      margin-bottom: 15px;
+      margin-bottom: 65px;
     }
   }
 
@@ -236,14 +236,14 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($theme-color, 15%);
+    color: darken($theme-color, 65%);
   }
   .services-section {
     .intro {
       margin-bottom: 30px;
     }
     .item {
-      margin-bottom: 15px;
+      margin-bottom: 65px;
     }
   }
   
@@ -264,14 +264,14 @@ p {
       margin-bottom: 30px;
     }
     .item {
-      margin-bottom: 15px;
+      margin-bottom: 65px;
     }
   }
 }
 
 .skillset {
   .item {
-    margin-bottom: 15px;
+    margin-bottom: 65px;
     overflow: hidden;
   }
   .level-title {
@@ -285,7 +285,7 @@ p {
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten($theme-color, 15%);
+    background: lighten($theme-color, 65%);
   }
 }
 
