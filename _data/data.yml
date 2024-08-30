@@ -8,14 +8,15 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: BISHAL TIMSINA
+    name: BISHAL TIMSINA 
     tagline: Passionate About Cybersecurity 
     avatar: profile_picture.png
     #Avatar is linked with my facebook profile if profile is changed then the avatar will also change
     
     # Sidebar links
     email: timsinabishal232@gmail.com
-    phone: 9806053220
+    phone: +9779806053220
+    timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Nepal
     website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
     linkedin: bishal-timsina-aa381b263
@@ -57,15 +58,16 @@ sidebar:
         - item: Travelling
           link:
 
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        I am passionate about cybersecurity and ethical hacking and look forward to applying my
+        skills and knowledge in a professional setting. I am highly motivated, detail-oriented, and
+        committed to continuous learning and development in this dynamic eld. To work with all of
+        my skills and experience for practical use of IT technologies and wish to work in an
+        organization where I can sharpen my skills, expand my knowledge and work for the welfare
+        of the human race.
 education:
     title: Education
     info:
@@ -135,7 +137,6 @@ certifications:
           credentialname: AWS
           details: |
              Completed AWS certification, acquiring knowledge in cloud services and management.
-
 projects:
     title: Projects
     intro: >
@@ -182,3 +183,4 @@ skills:
 
 footer: >
       <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a
+
