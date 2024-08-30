@@ -159,6 +159,26 @@ projects:
         link: "https://drive.google.com/drive/u/0/home"
         tagline: "The comprehensive network design and implementation plan for NetworkHats, a company specializing in network security solutions. Below is an overview of the key aspects covered in the report."
 
+services:
+  title: Our Services
+  intro: "Explore the range of services we offer to help you achieve your digital goals."
+  list:
+    - title: Website Design
+      description: Creating visually appealing and user-friendly website layouts tailored to clients' needs and branding.
+    - title: Frontend Development
+      description: Building interactive and responsive frontend interfaces using HTML, CSS, and JavaScript frameworks.
+    - title: Backend Development
+      description: Developing server-side logic, databases, and APIs to power dynamic website functionality and data management.
+    - title: Penetration Testing
+      description: Identifying vulnerabilities in systems and networks by simulating real-world cyberattacks.
+    - title: Security Auditing
+      description: Conducting comprehensive assessments of an organization's security infrastructure to ensure compliance and identify weaknesses.
+    - title: Malware Analysis
+      description: Investigating and analyzing malicious software to understand its behavior, identify its origin, and develop strategies for mitigating its impact.
+    - title: Security Awareness Training
+      description: Providing education and training to employees on cybersecurity best practices, social engineering tactics, and threat detection.
+    - title: Search Engine Optimization (SEO)
+      description: Implementing strategies to improve website visibility and rankings on search engine results pages.
 
 
 skills:
@@ -182,6 +202,7 @@ skills:
         
       - name: Research Skills
         level: 60%
+
 
 footer: >
       <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Bishal Timsina</a
