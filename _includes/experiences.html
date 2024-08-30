@@ -21,13 +21,13 @@
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
-<!--       <div class="company">{{ experience.company }}</div> -->
-      <div class="company" style="text-decoration: underline;"><b>{{ experience.company }}</b></div>
+      <div class="company"><i>{{ experience.company }}</i></div>
+<!--       <div class="company" style="text-decoration: underline;"><b>{{ experience.company }}</b></div> -->
     </div><!--//meta-->
 
     {% if experience.details %}
     <div class="details">
-      {{ experience.details | markdownify }}
+      <i>{{ experience.details | markdownify }}</i>
     </div><!--//details-->
     {% endif %}
 
