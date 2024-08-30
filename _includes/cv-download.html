@@ -1,0 +1,33 @@
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+{% assign cv = site.data.sidebar.cv %}
+<div class="cv-download">
+  <a href="{{ site.baseurl }}/assets/images/laxmi.pdf" class="download-btn" download>
+    Download CV
+  </a>
+
+</div>
+
+<!-- Inline CSS for the download button -->
+<style>
+  .cv-download {
+      text-align: center; /* Center the button within its container */
+  }
+  
+  .cv-download .download-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      color: #fff;
+      background-color: #ff7f00; /* Orange background */
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      text-align: center;
+      transition: background-color 0.3s ease;
+      margin-top: 15px; /* Add margin-top for spacing */
+  }
+
+  .cv-download .download-btn:hover {
+      background-color: #e66a00; /* Darker shade of orange on hover */
+  }
+</style>
