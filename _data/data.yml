@@ -79,22 +79,22 @@ education:
         details: |
             Currently pursuing a Bachelor’s degree focusing on Ethical Hacking and Cybersecurity. 
             Engaged in coursework and practical projects related to cybersecurity.
-            - Developing skills in penetration testing and network security
-            - Participation in cybersecurity bootcamps and CTF challenges
+        - Developing skills in penetration testing and network security
+        - Participation in cybersecurity bootcamps and CTF challenges
       - degree: High School
         university: Southwestern State College
         time: 2007 - 2011
         details: |
             Completed high school with a concentration in Science. Achieved a GPA of 3.53.
-            - In-depth study of scientific subjects
-            - Involvement in science-related projects and activities
+        - In-depth study of scientific subjects
+        - Involvement in science-related projects and activities
       - degree: Schooling
         university: Mechi English Boarding School
         time: 2006 - 2020
         details: |
             Completed schooling with a focus on foundational education. Achieved a GPA of 3.95.
-            - Strong academic performance
-            - Active participation in extracurricular activities
+        - Strong academic performance
+        - Active participation in extracurricular activities
 experiences:
     title: Experiences
     info:
