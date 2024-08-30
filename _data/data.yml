@@ -15,8 +15,7 @@ sidebar:
     
     # Sidebar links
     email: timsinabishal232@gmail.com
-    phone: +9779806053220
-    timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    phone: 9806053220
     citizenship: Nepal
     website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
     linkedin: bishal-timsina-aa381b263
@@ -107,43 +106,35 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: HACK THE BOX CTF BOOTCAMP
+          start: 2023
+          end: 
+          organization: Softwarica College
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: "drive.google.com/file/d/1WSUUXREp2LGZzDIITc2TQ_sOuimuZUw4/view?usp=drive_link"
+          credentialname: HTB
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            Participated in Hack The Box CTF Bootcamp, gaining hands-on experience in capture the flag challenges
+            and cybersecurity skills.
+        - name: Capture The Flag
+          start: 2023
           end:
-          organization: Microsoft
+          organization: Softwarica College
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: "drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
+          credentialname: CTF
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Engaged in the Softwarica CTF, further developing problem-solving abilities in cybersecurity through
+            various capture the flag exercises.
+        - name: AWS
+          start: 2024
+          end:
+          organization: iPay
+          credentialid: 111-222
+          credentialurl: "drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
+          credentialname: AWS
+          details: |
+             Completed AWS certification, acquiring knowledge in cloud services and management.
 
 projects:
     title: Projects
