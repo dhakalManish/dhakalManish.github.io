@@ -1,0 +1,39 @@
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+{% assign services = site.data.data.services %}
+{% if services %}
+<section class="section services-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-concierge-bell fa-stack-1x fa-inverse"></i>
+    </span>
+    <b>{{ services.title }}</b>
+  </h2>
+
+  {% if services.intro %}
+  <div class="intro">
+      <p>{{ services.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for service in services.list %}
+    <div class="item">
+
+      <span class="service-title">
+        {% if service.link %}
+        <a href="{{ service.link }}" target="_blank"><b>{{ service.title }}</b></a>
+        {% else %}
+        <b>{{ service.title }}</b>
+        {% endif %}
+      </span>
+
+      {% if service.description %}
+      - <span class="service-description">{{ service.description }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
