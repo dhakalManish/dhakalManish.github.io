@@ -23,7 +23,7 @@
 
       <div class="second-upper-row">
         <div class="cert-org">
-          <i>{{ certifications.organization }}</i> {% if certifications.credentialid %}
+          {{ certifications.organization }} {% if certifications.credentialid %}
           ({{ certifications.credentialid }}) {% endif %}
         </div>
         {% if certifications.credentialurl %}
@@ -40,7 +40,7 @@
     </div>
     <!--//meta-->
 
-    <div class="details"><i>{{ certifications.details | markdownify }}</i></div>
+    <div class="details">{{ certifications.details | markdownify }}</div>
   </div>
   <!--//item-->
   {% endfor %}
