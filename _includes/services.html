@@ -6,7 +6,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-concierge-bell fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
     <b>{{ services.title }}</b>
   </h2>
@@ -17,7 +17,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for service in services.list %}
+  {% for service in services.assignments %}
     <div class="item">
 
       <span class="service-title">
@@ -28,8 +28,8 @@
         {% endif %}
       </span>
 
-      {% if service.description %}
-      - <span class="service-description">{{ service.description }}</span>
+      {% if service.tagline %}
+      - <span class="service-tagline">{{ service.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
