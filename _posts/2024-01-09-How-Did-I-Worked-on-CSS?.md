@@ -13,28 +13,28 @@ To customize the appearance of my Jekyll site, I needed to work on its CSS. This
 ## Intercepting the Page
 
 * Right-click on the element you want to inspect to open the browser's developer tools.
-* Use the "Inspect" option to view the HTML and CSS associated with the element.
-
 ![Right Click](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/right-click_hero_1.jpg?q=50&fit=crop&w=767&h=431&dpr=1.5)
+* Use the "Inspect" option to view the HTML and CSS associated with the element.
+![Right Click](https://developer.chrome.com/static/docs/devtools/open/image/the-inspect-option-a-dro-e98bce489fabb_960.png)
+
 
 ## Analyzing the CSS Code
 
 * Navigate to the "Elements" tab in the developer tools to view the HTML structure and the applied CSS.
+  ![Right Click](https://developer.chrome.com/static/docs/devtools/open/image/the-elements-panel-inspe-6e5ff3c13f7a3_960.png)
 * Locate the CSS file responsible for the styles in the "Styles" panel.
 * Review the CSS rules and properties affecting the element, such as color, font-size, and layout.
 
 ## Modifying the CSS Code
 
-* Edit the CSS file used by your Jekyll site to adjust or add new rules as needed.
-* Test the changes by refreshing the webpage and verifying the updates across different devices and screen sizes.
+* Edit the CSS file used by Jekyll site to adjust as needed.
 
 ## Implementing the Final Code
 
-* Update the main CSS file in your Jekyll project with the finalized code.
+* Update the main CSS file in Jekyll project with the finalized code.
 * Deploy the updated site to make the changes live.
 
 ## Conclusion
 
-Working with CSS involves a few crucial steps from inspecting elements to applying and testing changes. By following these steps, you can effectively manage the styling of your Jekyll site and enhance its visual appeal.
+Working with CSS involves a few crucial steps from inspecting elements to applying and testing changes. By following these steps, I effectively manage the styling of Jekyll site and enhance its visual appeal.
 
-Feel free to reach out with any questions or comments!
