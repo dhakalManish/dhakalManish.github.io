@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Worked on CSS for My Jekyll Site"
-date: 2024-09-01 12:46:00 +0000
+date: 2024-01-09 12:46:00 +0000
 author: "Bishal Timsina"
 excerpt: "A detailed guide on inspecting, analyzing, and modifying CSS for a Jekyll site."
 ---
