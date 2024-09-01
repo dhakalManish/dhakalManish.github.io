@@ -20,6 +20,7 @@ To customize the appearance of my Jekyll site, I needed to work on its CSS. This
 ## Analyzing the CSS Code
 
 * Navigate to the "Elements" tab in the developer tools to view the HTML structure and the applied CSS.
+  
 ![Elements Panel](https://developer.chrome.com/static/docs/devtools/open/image/the-elements-panel-inspe-6e5ff3c13f7a3_960.png){:width="50%"}
 * Locate the CSS file responsible for the styles in the "Styles" panel.
 * Review the CSS rules and properties affecting the element, such as color, font-size, and layout.
