@@ -14,11 +14,12 @@
   }
 
   .main-wrapper {
+    position: relative;
     padding: 30px;
   }
 
   .main-wrapper .time {
-    position: static;
+    position: relative;
     display: block;
     margin-top: 5px;
   }
