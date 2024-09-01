@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar
+layout: default
 title: Projects
 ---
 
