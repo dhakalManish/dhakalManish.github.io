@@ -22,19 +22,19 @@ sidebar:
     linkedin: bishal-timsina-aa381b263
     facebook: bishal.timsina.2002
     github: bishal784411
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
     twitter: '@Apocalypse232'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf:  # Add a PDF link here if you want to include a PDF custom version in your resume.
-    blog: blog.html
-    allprojects: allprojects
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # mastodon:  # Please include your full Mastodon link here.
+    # hackerrank: # Please provide your HackerRank username.
+    # leetcode: # Please provide your LeetCode username.
+    # pdf:  # Add a PDF link here if you want to include a PDF custom version in your resume.
+    # blog: 
+    # allprojects: 
     
     languages:
       title: Languages
