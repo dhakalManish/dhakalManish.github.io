@@ -18,47 +18,31 @@ title: Projects
 
 # Some Research
 
-### Advanced Persistent Threat Analysis(#)* 
+### [Advanced Persistent Threat Analysis](https://drive.google.com/file/d/140Y-uHznQ4xvCw4tQzGAZJxPlXRaGkVp/view) 
 *Studying APT attacks by APT38 linked to North Korea. This project includes understanding their methods, custom malware, and software like Dark Comet and Mimikatz.*
 
-### Security Testing and Improvement
-*[Vulnerability Assessment and Penetration Testing (VAPT)](#)*
+### [Vulnerability Assessment and Penetration Testing (VAPT)](https://drive.google.com/file/d/134sqh9tFF5S2gdsA13N40wXWKP6ngdAl/view)
 *A detailed assessment of four simulated systems to identify weaknesses and recommend improvements to enhance cybersecurity defenses.*
 
-### Operating Systems and Process Management
-*[Analysis of Process Management Techniques in Operating Systems](#)*
+### [Operating Systems and Process Management](https://drive.google.com/file/d/15JCnBY55cA4M2KdZH3jLLrt3S2mSYbBt/view)
 *Exploring process management in operating systems, its role in scheduling, communication, and comparisons between Linux and Android processes.*
 
-### CPU Security Analysis
-*[CPU Vulnerability](#)*
+### [CPU Vulnerability](https://drive.google.com/file/d/1sK0yoW7kWo7X-_MUI7klxiRbeQjUvEKo/view)
 *Examining CPU weaknesses, including vulnerabilities like Spectre and Meltdown, and how CPU design is evolving to enhance security.*
 
-### Digital Forensics Tools
-*[Digital Forensic Report](#)*
+### [Digital Forensic Report](https://drive.google.com/file/d/1oECEBFviLMi-Y6uGkh0XlHwjbTl2rgNA/view)
 *Summary of four essential software tools for IT professionals: SIW, WFA, Wireshark, and Redline, used for troubleshooting, forensic analysis, and security investigations.*
 
-### SQL Injection Vulnerability
-*[SQL Injection Report](#)*
+### [SQL Injection Report](https://drive.google.com/file/d/1l0yzCEhfG1UMqd6a9hDEVnSCQZup5tBu/view)
 *An analysis of SQL Injection vulnerabilities, their impact, and mitigation strategies. This report includes recommendations for secure coding and data protection.*
 
-### Morse Code Conversion Tool
-*[Text Converter](#)* 
+### [Text Converter](https://drive.google.com/file/d/11jlC2F4Oeje5yGrBRGlXtDp45Kc33SzU/view) 
 *A Python program for converting text to Morse code and vice versa. It uses a dictionary to map characters and provides practical functionality for Morse code enthusiasts.*
 
-### Data Encryption Fundamentals
-*[Encryption: A Pillar of Data Security](#)*
+### [Encryption: A Pillar of Data Security](https://drive.google.com/file/d/1KCZ2XZDSJUao10qIyMvhaQ_4OsSHBcjo/view)
 *A report focusing on the significance of encryption, including key management and cryptographic methods.*
 
-### Password Generation and Validation
-*[Generating and Validating Password](#)*
-*Analysis of a C program that generates random passwords and validates user input, with recommendations for enhancing security features.*
-
-### Freedom of Expression Online
-*[FREEDOM OF EXPRESSION IN INTERNET](#)*
-*An exploration of the principles and challenges related to freedom of expression on the internet.*
-
-### Capture The Flag (CTF) Writeups
-*[CTF Writeups Collection](#)*
+### [CTF Writeups Collection](https://medium.com/@timsinabishal232)
 *Access to all my Capture The Flag (CTF) writeups, detailing the challenges and solutions encountered.*
 
 ---
