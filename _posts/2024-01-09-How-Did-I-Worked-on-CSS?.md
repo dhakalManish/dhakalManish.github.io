@@ -13,7 +13,7 @@ To customize the appearance of my Jekyll site, I needed to work on its CSS. This
 ## Intercepting the Page
 
 * Right-click on the element you want to inspect to open the browser's developer tools.
-![Right Click](https://drive.google.com/file/d/1FXq42KgKgX-IcgAUMCASbO-zL2tgM07T/view?usp=drive_link){:width="50%"}
+![Right Click](https://drive.usercontent.google.com/download?id=1FXq42KgKgX-IcgAUMCASbO-zL2tgM07T&export=view&authuser=0){:width="50%"}
 * Use the "Inspect" option to view the HTML and CSS associated with the element.
 ![Inspect Option](https://developer.chrome.com/static/docs/devtools/open/image/the-inspect-option-a-dro-e98bce489fabb_960.png){:width="50%"}
 
