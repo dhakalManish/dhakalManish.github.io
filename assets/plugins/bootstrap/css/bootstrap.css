@@ -1318,6 +1318,7 @@ mark,
 }
 .text-center {
   text-align: center;
+  margin-bottom: 20px;
 }
 .text-justify {
   text-align: justify;
