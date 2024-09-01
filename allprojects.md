@@ -10,18 +10,15 @@ title: Projects
 ## [Secure Chat Application](https://drive.google.com/file/d/1vwN1Q20ggVyS_DJ-XICjUaPYSaAfq5Jd/view)
 *A secure chat system built with Python, using RSA and ElGamal encryption and user authentication for confidential communication.*
 
-## ShieldXpert Antivirus
-*[ShieldXpert Antivirus](https://drive.google.com/file/d/1oDItgXDDWv8kEAi6s0xf_dVmtRYWSoyR/view)*
+## [ShieldXpert Antivirus](https://drive.google.com/file/d/1oDItgXDDWv8kEAi6s0xf_dVmtRYWSoyR/view)
 *A user-friendly Python antivirus offering scanning, encryption, and secure deletion to tackle modern threats.*
 
-## Networking for NetworkHats
-*[Networking for NetworkHats](https://drive.google.com/drive/u/0/home)*
+## [Networking for NetworkHats](https://drive.google.com/drive/u/0/home)
 *The comprehensive network design and implementation plan for NetworkHats, a company specializing in network security solutions.*
 
 # Some Research
 
-### Advanced Persistent Threat Analysis
-*[The Lazarus Group Project](#)* 
+### Advanced Persistent Threat Analysis(#)* 
 *Studying APT attacks by APT38 linked to North Korea. This project includes understanding their methods, custom malware, and software like Dark Comet and Mimikatz.*
 
 ### Security Testing and Improvement
