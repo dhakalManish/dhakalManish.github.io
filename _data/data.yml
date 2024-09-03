@@ -8,24 +8,24 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: BISHAL TIMSINA 
-    tagline: Passionate About Cybersecurity 
+    name: MANISH Dhakal
+    tagline: Certified Personal Trainer
     avatar: profile_picture.png
     #Avatar is linked with my facebook profile if profile is changed then the avatar will also change
     
     # Sidebar links
-    email: timsinabishal232@gmail.com
-    phone: +9779806053220
-    timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: dhakalmanish999@gmail.com
+    phone: +14376650378 
+    #timezone: Asia/Kathmandu # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Nepal
-    website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
-    linkedin: bishal-timsina-aa381b263
-    facebook: bishal.timsina.2002
-    github: bishal784411
+    #website: https://timsinalaxmi.com.np/ # Include the full website URL, including "http://" or "https://".
+    linkedin: 
+    facebook: profile.php?id=61560101102951
+    github: 
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
-    twitter: '@Apocalypse232'
+    twitter:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
