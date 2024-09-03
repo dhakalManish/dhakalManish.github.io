@@ -29,7 +29,9 @@ title: Professional Experience and Training in the Food Service Industry
 - *Managed inventory replenishment and assisted in food preparation and other tasks as directed by the chef.*
 - *Remained calm and efficient in high-pressure environments, maintaining productivity during busy service periods.*
 - *Fostered a positive and collaborative atmosphere within the kitchen team.*
+
 ---
+
 # Training and Certification
 *Explore my professional training and certifications that have enhanced my skills in the food and beverage industry.*
 
@@ -40,6 +42,7 @@ title: Professional Experience and Training in the Food Service Industry
 ## Certificate of Internship (Barista)
 *Galaxy Training Institute Pvt. Ltd. | 2024*
 - *Completed an internship as a Barista at Galaxy Training Institute Pvt. Ltd. from December 25, 2023, to June 25, 2024, demonstrating excellent performance, leadership, and dedication.*
+
 ---
 
 # Skills
