@@ -64,28 +64,34 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am passionate about cybersecurity and ethical hacking and look forward to applying my
-        skills and knowledge in a professional setting. I am highly motivated, detail-oriented, and
-        committed to continuous learning and development in this dynamic eld. To work with all of
-        my skills and experience for practical use of IT technologies and wish to work in an
-        organization where I can sharpen my skills, expand my knowledge and work for the welfare
-        of the human race.
+        A highly motivated and results-driven professional with a diverse background spanning sales, 
+        culinary arts, and physical fitness. Currently pursuing a Bachelor's degree in Physical Fitness,
+        with a strong foundation in exercise science, nutrition, and personal training. Previously 
+        excelled as a sales professional in top retail environments in Nepal, demonstrating skills in 
+        customer service, sales strategy, and inventory management, with a proven track record of 
+        achieving targets and enhancing customer satisfaction. Additionally, brought expertise as a 
+        cook, skilled in food preparation and kitchen operations, maintaining high standards of 
+        cleanliness and food safety while delivering exceptional dining experiences. Known for 
+        strong multitasking abilities, quick learning, and a commitment to excellence, blending a
+        broad skill set to promote health, deliver outstanding service, and achieve both personal 
+        and professional goals.
 education:
     title: Education
     info:
-      - degree: BSC(hons.) Ethical Hacking and CyberSecurity
-        university: Softwarica College of IT and E-commerce
-        time: 2022 - Ongoing
+      - degree: Fitness and Health Promotion
+        university: Durham College
+        time: 2024 - Ongoing
         details: |
-            Currently pursuing a Bachelor’s degree focusing on Ethical Hacking and Cybersecurity. 
-            Engaged in coursework and practical projects related to cybersecurity.
+            A dedicated and results-oriented student currently pursuing a Bachelor's degree in Physical Fitness. 
+            Passionate about promoting health and wellness through physical training and fitness programs. 
+            Equipped with a solid foundation in exercise science, nutrition, and personal training techniques.
       - degree: High School
         university: Southwestern State College
         time: 2007 - 2011
         details: |
             Completed high school with a concentration in Science. Achieved a GPA of 3.53.
       - degree: Schooling
-        university: Mechi English Boarding School
+        university: New Knowledge English Boarding School
         time: 2006 - 2020
         details: |
             Completed schooling with a focus on foundational education. Achieved a GPA of 3.95.
@@ -93,47 +99,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Teaching Staff
-        time: 2020 BS
-        company: Vidhya Bardan School
         details: |
-          Taught primary-level students, specifically focusing on Computer Science, Mathematics for grades 2 to 6.
-          Managed classroom activities and ensured a positive learning atmosphere. Collaborated with other teachers 
-          to enhance educational strategies. Integrated technology into lessons to make learning more 
-          interactive and engaging.
+          I’ve included the work experience details in the sidebar under the relevant field.
 
 certifications:
       title: Certifications
-      list:
-        - name: HACK THE BOX CTF BOOTCAMP
-          #start: 2023
-          #end: 
-          organization: Softwarica College
-          #credentialid: 111-222
-          credentialurl: "drive.google.com/file/d/1WSUUXREp2LGZzDIITc2TQ_sOuimuZUw4/view?usp=drive_link"
-          credentialname: HTB
           details: |
-            Participated in Hack The Box CTF Bootcamp, gaining hands-on experience in capture the flag challenges
-            and cybersecurity skills.
-        - name: Capture The Flag
-          #start: 2023
-          #end:
-          organization: Softwarica College
-          #credentialid: 111-222
-          credentialurl: "drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
-          credentialname: CTF
-          details: |
-            Engaged in the Softwarica CTF, further developing problem-solving abilities in cybersecurity through
-            various capture the flag exercises.
-        - name: AWS
-          #start: 2024
-          #end:
-          organization: iPay
-          #credentialid: 111-222
-          credentialurl: "drive.google.com/file/d/1WVjXGTBiP-m5rvpTUIe4AgXrxeK9hEXX/view?usp=drive_link"
-          credentialname: AWS
-          details: |
-             Completed AWS certification, acquiring knowledge in cloud services and management.
+             I’ve placed the certification details in the left-side navigation bar under the appropriate section.
 projects:
     title: Projects
     intro: >
