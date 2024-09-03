@@ -99,13 +99,13 @@ education:
 experiences:
     title: Experiences
     info:
-        details: |
-          I’ve included the work experience details in the sidebar under the relevant field.
+      - role: I’ve included the work experience details in the sidebar under the relevant field.
 
 certifications:
       title: Certifications
-          details: |
-             I’ve placed the certification details in the left-side navigation bar under the appropriate section.
+      list:
+        - name:  I’ve placed the certification details in the left-side navigation bar under the appropriate section.
+
 projects:
     title: Projects
     intro: >
