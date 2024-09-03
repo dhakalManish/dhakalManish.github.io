@@ -109,33 +109,21 @@ certifications:
 
 
 services:
-  title: Services you Get
+  title: Services You Get
   intro: >
-      Explore the range of services we offer to help you achieve your digital goals.
+    Explore the diverse range of services we offer, from culinary expertise to event planning, sales consulting, and more.
   assignments:
-    - title: Website Design
-      tagline: "Creating visually appealing and user-friendly website layouts tailored to clients' needs and branding."
-      
-    - title: Frontend Development
-      tagline: "Building interactive and responsive frontend interfaces using HTML, CSS, and JavaScript frameworks."
-      
-    - title: Backend Development
-      tagline: "Developing server-side logic, databases, and APIs to power dynamic website functionality and data management."
-      
-    - title: Penetration Testing
-      tagline: "Identifying vulnerabilities in systems and networks by simulating real-world cyberattacks."
-      
-    - title: Security Auditing
-      tagline: "Conducting comprehensive assessments of an organization's security infrastructure to ensure compliance and identify weaknesses."
-      
-    - title: Malware Analysis
-      tagline: "Investigating and analyzing malicious software to understand its behavior, identify its origin, and develop strategies for mitigating its impact."
-      
-    - title: Security Awareness Training
-      tagline: "Providing education and training to employees on cybersecurity best practices, social engineering tactics, and threat detection."
-      
-    - title: Search Engine Optimization (SEO)
-      tagline: "Implementing strategies to improve website visibility and rankings on search engine results pages."
+    - title: Specialty Coffee and Barista Services
+      tagline: "Crafting specialty coffee drinks, offering barista training, managing inventory, and engaging customers with personalized service."
+
+    - title: Culinary Services
+      tagline: "Providing fine dining culinary services, menu consultation, kitchen organization, and training for kitchen staff."
+
+    - title: Sales and Retail Consulting
+      tagline: "Enhancing retail strategies through sales consulting, inventory management, customer relationship management, and staff training."
+
+    - title: Event and Catering Services
+      tagline: "Offering professional barista and catering services for events, along with training event staff for a successful experience."
 
 
 skills:
@@ -143,7 +131,6 @@ skills:
 
     toolset:
       - name:  I’ve placed the Skills details in the Sidebar under the appropriate section.
-        level: 100%
 
 footer: >
       <i class="fas fa-heart"></i> by <a href="https://www.facebook.com/bishal.timsina.2002" target="_blank" rel="nofollow">Bishal Timsina</a
