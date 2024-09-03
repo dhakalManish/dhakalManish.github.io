@@ -5,7 +5,9 @@ title: Professional Experience and Training in the Food Service Industry
 
 # For Cook
 
-*Explore my journey through various roles in the food service industry. Each position has equipped me with valuable skills and experiences in customer service, food preparation, and team collaboration.*
+*A skilled and dedicated cook with a strong background in food preparation and kitchen operations. Adept at creating a wide range of dishes, from daily specials to fine dining cuisine, with a focus on high-quality ingredients and presentation. Experienced in maintaining cleanliness and adhering to food safety standards in a fast-paced kitchen environment. Proven ability to work collaboratively with kitchen teams, manage inventory, and provide exceptional customer service. Known for strong multitasking skills, quick learning, and a commitment to delivering a satisfying dining experience..*
+
+---
 
 ## Work Experience
 ### Barista | Galaxy Training Institute Pvt. Ltd.
